@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier
+#### A Data Science Project that shows implementation of K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier, 04/07/2021
+#### By **Greg Katono**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+The project shows implementation of K-nearest neighbor (kNN) classifier  and a Naive Bayes classifier.In the Naive Bayes classifier, we classify email as spam or Non-spam while the K-nearest neighbor (kNN) classifier predicts whether passegers survive in Titanic.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
